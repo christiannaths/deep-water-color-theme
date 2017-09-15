@@ -8,6 +8,11 @@ Well, I'm not sure it is. But here is why I made it: I find most dark themes use
 
 ## What does it look like?
 
+![screenshot](screenshots/deep-water-1.png)
+
+![screenshot](screenshots/deep-water-2.png)
+
+![screenshot](screenshots/deep-water-3.png)
 
 
 ## What needs fixing?
@@ -16,7 +21,11 @@ Lots of things. I've really only used it in js/x, json, Python, and Ruby, and it
 
 Highlighting in the command palette thingy looks pretty bad. That's probably next on my list if things to fix.
 
+![screenshot](screenshots/issue-1-command-palette.png)
+
 I hate the search and keyword highlighting too, but honestly I'm not sure exactly how to fix it, so I just suffer. Ideas here are more than welcome.
+
+![screenshot](screenshots/issue-2-search-highlighting.png)
 
 I could probably publish it to the Extensions Marketplace, but it doesn't feel ready for that – plus who's got the time?
 
